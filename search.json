@@ -28,13 +28,6 @@
     "text": "Air Resources Laboratory\nSurface Energy Budget Network (SEBN)\n\n\n\n\n\n\n\nSite name\nVegetation\nOperational period\n\n\n\n\nAudubon, AZ\nArid Grassland\n2002 - present\n\n\nBondville, IL\nCorn, Soybean\n2002 - present\n\n\nChestnut Ridge, TN\nHickory/Oak/Maple\n2005 - present\n\n\nBondville2, IL\nCorn, Soybean\n2003 - 2007\n\n\nBrookings, SD\nGrassland\n2004 - 2015\n\n\nFort Peck, MT\nGrassland\n2000 - 2015\n\n\nWalker Branch, TN\nHickory/Oak/Maple\n1995 - 2007\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\nImage courtesy of ATDD\n\nThe SEBN aims to improve understanding of land-atmosphere interactions by continuously monitoring energy, water, and carbon exchanges to better represent surface processes and enhance NOAA’s weather and climate predictions.\n\nNOAA/ARL/ATDD\n\n\n\nSEBN is a field-observing network of experimental sites designed to measure energy, water and carbon dioxide fluxes at the land-atmosphere interface.\nCurrently, the network has three sites in the United States that represent different ecosystem / land‐use types (for example: grassland, crops, forest)."
   },
   {
-    "objectID": "slides.html#understanding-soil-forest-atmosphere-interactions",
-    "href": "slides.html#understanding-soil-forest-atmosphere-interactions",
-    "title": "\n\n\n2026 AmeriFlux Annual Meeting September 9–11 2026 | Berkeley, CA\n\n",
-    "section": "Understanding Soil-Forest-Atmosphere Interactions",
-    "text": "Understanding Soil-Forest-Atmosphere Interactions\n\n\n\n\n\n\nTaken from Burba (2022).\n\n\n\n\n\n\nData from SEBN help us to understand how land‐surface processes like radiation, heat fluxes, evapotranspiration, carbon and water cycles, feed back into regional climate and weather.\nAdditionally, this data also helps to validate/improve land‐surface models and thereby strengthen weather and seasonal predictions, that is one of NOAA/ARL goals."
-  },
-  {
     "objectID": "slides.html#chestnut-ridge-supersite-chess",
     "href": "slides.html#chestnut-ridge-supersite-chess",
     "title": "\n\n\n2026 AmeriFlux Annual Meeting September 9–11 2026 | Berkeley, CA\n\n",
@@ -130,7 +123,7 @@
     "href": "slides.html#ancillary-measurements-3",
     "title": "\n\n\n2026 AmeriFlux Annual Meeting September 9–11 2026 | Berkeley, CA\n\n",
     "section": "Ancillary measurements",
-    "text": "Ancillary measurements\n\n\n\n\n\n\n\n\n\nGround-based Wind Lidar\n\n\n\nInstrument: WindCube V2.1 | Vaisala\nInstalled along Chestnut Ridge at the OR reservation\n\nMeasurements began in June 2023\n\nCurrently under maintenance with planned redeployment\n\n\n\n\n\n\nProgress:\n\n\n20%\n\n\n🚧\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious setup\n\n\n\nMeasurement range: 40 to 300 m above ground level (14 range gates)\n\nWind speed range: −23 to +23 m s⁻¹\n\nAccuracy: Wind speed 0.1 m s⁻¹, wind direction 2°\n\nScanning method: Doppler Beam Swinging (DBS)\n\n1 vertical beam\n\n4 off-zenith beams at 28° (azimuths 0°, 90°, 180°, 270°)\n\n\nSampling frequency: 1 Hz\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo and image courtesy of Vaisala\n\n\n\nThis kind of devices are specially used in wind turbines studies, but there is a recent increasing interest and use in the interpretation of eddy covariance fluxes by capturing shear, turbulence, and flow variability over complex terrain and larger footprints."
+    "text": "Ancillary measurements\n\n\n\n\n\n\n\n\n\nGround-based Wind Lidar\n\n\n\nInstrument: WindCube V2.1 | Vaisala\nInstalled along Chestnut Ridge at the OR reservation\n\nMeasurements began in June 2023\n\nCurrently under maintenance with planned redeployment\n\n\n\n\n\n\nProgress:\n\n\n50%\n\n\n🚧\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPrevious setup\n\n\n\nMeasurement range: 40 to 300 m above ground level (14 range gates)\n\nWind speed range: −23 to +23 m s⁻¹\n\nAccuracy: Wind speed 0.1 m s⁻¹, wind direction 2°\n\nScanning method: Doppler Beam Swinging (DBS)\n\n1 vertical beam\n\n4 off-zenith beams at 28° (azimuths 0°, 90°, 180°, 270°)\n\n\nSampling frequency: 1 Hz\n\n\n\n\n\n\n\n\n\n\n\n\n\nVideo and image courtesy of Vaisala\n\n\n\nThis kind of devices are specially used in wind turbines studies, but there is a recent increasing interest and use in the interpretation of eddy covariance fluxes by capturing shear, turbulence, and flow variability over complex terrain and larger footprints."
   },
   {
     "objectID": "slides.html#ancillary-measurements-4",
